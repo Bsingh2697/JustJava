@@ -144,9 +144,9 @@ public class MainActivity extends AppCompatActivity {
     public void onSaveInstanceState(Bundle outState, PersistableBundle outPersistentState) {
         super.onSaveInstanceState(outState, outPersistentState);
         outState.putString("naam", name);
-     // Log.v("saveInstance2","quantity="+quantity);
+        Log.v("saveInstance2","quantity="+quantity);
         outState.putInt("quant", quantity);
-     // Log.v("saveInstance3","quantity="+quantity);
+        Log.v("saveInstance3","quantity="+quantity);
         outState.putBoolean("whiCre", hasWhippedCream);
         outState.putBoolean("Cho", hasChocolate);
         outState.putInt("TP", price);
@@ -156,7 +156,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onRestoreInstanceState(Bundle savedInstanceState) {
         super.onRestoreInstanceState(savedInstanceState);
         name = savedInstanceState.getString("naam");
-     // Log.v("restoreInstance","quantity="+quantity);
+        Log.v("restoreInstance","quantity="+quantity);
         quantity = savedInstanceState.getInt("quant");
         hasWhippedCream = savedInstanceState.getBoolean("whiCre");
         hasChocolate = savedInstanceState.getBoolean("Cho");
