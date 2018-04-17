@@ -158,6 +158,7 @@ public class MainActivity extends AppCompatActivity {
         name = savedInstanceState.getString("naam");
         Log.v("restoreInstance","quantity="+quantity);
         quantity = savedInstanceState.getInt("quant");
+        Log.v("restoreInstance1","quantity="+quantity);
         hasWhippedCream = savedInstanceState.getBoolean("whiCre");
         hasChocolate = savedInstanceState.getBoolean("Cho");
         price = savedInstanceState.getInt("TP");
