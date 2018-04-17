@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources  xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">CoffeeOrdering</string>
+    <string name="Topping">ऊपर से क्या लोगे?</string>
+    <string name="Whipped">" फेटी हुई मलाई"</string>
+    <string name="Choco">चॉकलेट</string>
+    <string name="quan">" मात्रा"</string>
+    <string name="order">ऑर्डर</string>
+    <string name="name">नाम</string>
+    <string name="order_summary_name">ऑर्डर सारांश नाम: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="order_summary_quantity">ऑर्डर सारांश  मात्रा: <xliff:g id="quantity" example="2">%d</xliff:g></string>
+    <string name="whipped_cream">फेटी हुई मलाई लेंगे? <xliff:g id="hasWhippedCream" example="true">%b</xliff:g></string>
+    <string name="chocolate">चॉकलेट लेंगे? <xliff:g id="hasChocolate" example="true">%b</xliff:g></string>
+    <string name="total">कुल:<xliff:g id="price" example="£10">%s</xliff:g></string>
+    <string name="order_summary_subject">आदेश सारांश विषय:<xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="thank">धन्यवाद</string>
+</resources>

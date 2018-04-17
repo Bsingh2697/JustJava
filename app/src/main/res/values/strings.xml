@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">CoffeeOrdering</string>
+    <string name="Topping">Toppings</string>
+    <string name="Whipped">Whipped Cream</string>
+    <string name="Choco">Chocolate</string>Īi
+    <string name="quan">QUANTITY</string>
+    <string name="order">ORDER</string>
+    <string name="name">Name</string>
+    <string name="order_summary_name">Name: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="order_summary_quantity">Quantity: <xliff:g id="quantity" example="2">%d</xliff:g></string>
+    <string name="whipped_cream">Whipped Cream Added? <xliff:g id="hasWhippedCream" example="true">%b</xliff:g></string>
+    <string name="chocolate">Chocolate Added? <xliff:g id="hasChocolate" example="true">%b</xliff:g></string>
+    <string name="total">Total Price:<xliff:g id="price" example="£10">%s</xliff:g></string>
+    <string name="order_summary_subject">Order Summary:<xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="thank">Thank You!</string>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CoffeeOrdering</string>
+    <string name="chocolate">क्पिशामिष्ट</string>
+    <string name="Choco">क्पिशामिष्ट</string>
+    <string name="Whipped">ताडनीय सन्तानिका</string>
+    <string name="whipped_cream">ताडनीय सन्तानिका</string>
+    <string name="Topping">आस्तरण</string>
+    <string name="quan">मात्रा</string>
+    <string name="order">आदेश</string>
+    <string name="name">नामन्</string>
+    <string name="total">समस्त</string>
+    <string name="order_summary_name">आदेश सङ्ग्रह नामन्</string>
+    <string name="order_summary_quantity">आदेश सङ्ग्रह मात्रा</string>
+    <string name="order_summary_subject">आदेश सङ्ग्रह विषय</string>
+    <string name="thank">अनुगृहितोऽस्मि</string>
+</resources>
